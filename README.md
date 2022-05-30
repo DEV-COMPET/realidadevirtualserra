@@ -76,3 +76,5 @@ Até o presente momento, nosso projeto está iniciando, e ainda deveremos decidi
 * [godot](https://github.com/godotengine/godot)
 
 Além dessas três, a tecnologia utilizada para criação de um modelo protótipo da serra foi feita usando [Blender](https://github.com/blender/blender).
+
+> Este repositório lida atualmente apenas com o projeto em Unreal.
