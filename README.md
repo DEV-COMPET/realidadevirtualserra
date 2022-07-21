@@ -65,16 +65,4 @@ Agora é hora de tornar essa nova versão parte do ambiente de produção. Entre
 
 6. Excluir a branch da Release criada ( `git branch -D release/release_tag`)
 
-## Tecnologias utilizadas
 
-Até o presente momento, nosso projeto está iniciando, e ainda deveremos decidir a game-engine que vamos utilizar, mas até o presente momento, devido a possibilidade de se fazer um projeto com qualidade profissional, estamos nos limitando a 3 engines:
-
-* [Unreal](https://docs.unrealengine.com/5.0/en-US/)
-
-* [Unity](https://unity.github.com/)
-
-* [godot](https://github.com/godotengine/godot)
-
-Além dessas três, a tecnologia utilizada para criação de um modelo protótipo da serra foi feita usando [Blender](https://github.com/blender/blender).
-
-> Este repositório lida atualmente apenas com o projeto em Unreal.
